@@ -1,0 +1,11 @@
+Model Information:
+* title:	HEAD_CASE_BY_ZEOTQ
+* source:	https://sketchfab.com/3d-models/head-case-by-zeotq-c35051ba6eb3443c8797e438bb6965be
+* author:	zeotq (https://sketchfab.com/zeotq)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HEAD_CASE_BY_ZEOTQ" (https://sketchfab.com/3d-models/head-case-by-zeotq-c35051ba6eb3443c8797e438bb6965be) by zeotq (https://sketchfab.com/zeotq) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
